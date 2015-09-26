@@ -3,7 +3,7 @@ https://www.reddit.com/r/dailyprogrammer/comments/3ltee2/20150921_challenge_233_
 
 ## Usage
 ```sh
-$ gcc main.cpp
+$ g++ main.cpp
 $ ./a.out < sample.txt
 
                                 A
